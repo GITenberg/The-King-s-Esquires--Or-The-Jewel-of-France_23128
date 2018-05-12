@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3840
     wikipedia: http://en.wikipedia.org/wiki/George_Manville_Fenn
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23128#The-King-s-Esquires--Or-The-Jewel-of-France
 gutenberg_issued: '2007-10-20'
 gutenberg_type: Text
 identifiers:
